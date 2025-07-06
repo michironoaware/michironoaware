@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![A V1 army for a war without reason](https://raw.githubusercontent.com/michironoaware/michironoaware/refs/heads/main/A_v1_army_for_a%20war_without_reason.jfif)
 <!--
 **michironoaware/michironoaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
