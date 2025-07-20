@@ -1,7 +1,6 @@
 Hi! Welcome to my GitHub profile. Expect mostly unserious nonsense and sarcastic descriptions — but also all my projects, lovingly dedicated to the public domain <3
 
-For a more serious insight, feel free to check my web resume.
-
+If you’re curious beyond the jokes, I have a web resume (not linked here because I usually send it first, but hey, if you insist: [link](https://michironoaware.github.io/resume/)).
 <!--
 **michironoaware/michironoaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
